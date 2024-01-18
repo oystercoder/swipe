@@ -5,7 +5,7 @@
 A virtual gesture controlled whiteboard tool built using OpenCV and MediaPipe.
 
 ## Visuals
-Video demo: https://drive.google.com/file/d/1pASq2a8w0ikVA60x7B1vHaFEFqHrtYfX/view?usp=drive_link
+
 
 ## Installation
 1. Clone/ download the repository
